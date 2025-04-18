@@ -55,4 +55,4 @@ For me, coding isn't just about building software — it's about crafting meanin
 
 ### 🌐 My Resume
 
-📄 [Download my CV](./EstebanRojas_FullStack_Resume.pdf)
+📄 [Check my CV](./EstebanRojas_FullStack_Resume.pdf)
