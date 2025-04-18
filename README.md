@@ -48,5 +48,5 @@ For me, coding isn't just about building software — it's about crafting meanin
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanrojascr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebanrq)
 [![Personal Website](https://img.shields.io/badge/Website-coming%20soon-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
